@@ -1,5 +1,8 @@
 # Ritsby-coin
 This is my meme coin and I will be calling it Ritsby.  With a total supply of 1000 tokens and the symbol RITS. My contract will mint some tokens and i will be able to send them to MetaMask users on the Rinkeby testnet.
+
+
+
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity ^0.8.0;
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
